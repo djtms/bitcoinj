@@ -269,7 +269,7 @@
         <dependency>
             <groupId>com.lambdaworks</groupId>
             <artifactId>scrypt</artifactId>
-            <version>1.3.3</version>
+            <version>1.4.0</version>
         </dependency>
 
         <!-- Add in to test/use Postgres blockstore -->
